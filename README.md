@@ -18,7 +18,7 @@ An experimental integration with interactive-particles.js and Midjourney | The p
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">geekspeak Aniversary AR Experience</h3>
+<h3 align="center">formFun AI Generated Image Particles Animation</h3>
 
   <p align="center">
 An experimental integration with interactive-particles.js and Midjourney | The project creates a vídeo animation based on the user input
